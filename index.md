@@ -8,4 +8,7 @@ These skills are accompanied by a sense of meaning for the human being, with mor
 
 I am able to deliver complex concepts and popularize them for different audiences, with an interest in the reality on the ground and change management (especially with the ever shorter technological cycles that students encounter)
 
+# My Contributions
 
+- [Research](http://www.securitylab.fr/home/research.html)
+- [Projects](http://www.securitylab.fr/home/projects.html)
