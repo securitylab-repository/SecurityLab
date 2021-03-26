@@ -14,5 +14,5 @@ I am able to deliver complex concepts and popularize them for different audience
 - [Projects](http://www.securitylab.fr/home/projects.html)
   - [Vwifi](https://securitylab-repository.github.io/Vwifi-Page/) 
 - Courses
-  - [AVL (Analayse de vulnérabilités logiciels)](www.securitylab.fr/avl.html)
-  - [White Hacking  & Cloud Security](www.securitylab.fr/whcs.html)  
+  - [AVL (Analayse de vulnérabilités logiciels)](https://www.securitylab.fr/avl.html)
+  - [White Hacking  & Cloud Security](https://www.securitylab.fr/whcs.html)  
