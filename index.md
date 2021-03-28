@@ -11,7 +11,7 @@ I am able to deliver complex concepts and popularize them for different audience
 # My Contributions
 
 - [Research](https://securitylab-repository.github.io/Research-Page/)
-- [Projects](http://www.securitylab.fr/home/projects.html)
+- [Projects](https://www.securitylab.fr/home/projects.html)
   - [Vwifi](https://securitylab-repository.github.io/Vwifi-Page/) 
 - Courses
   - [AVL (Analayse de vulnérabilités logiciels)](https://www.securitylab.fr/avl.html)
