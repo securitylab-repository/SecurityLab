@@ -1,6 +1,6 @@
-# Welcome to SecurityLab home page
+# Welcome to SecurityLab Home Page
 
-Welcome to B. AIT SALEM Home Page. You can find my courses here.
+Welcome to my Home Page. You can find my courses here.
 
 During my university and industry career, I have developed a solid scientific experience in computer security and embedded systems. I have also developed a rich teaching experience around operating system, network and application security.
 
@@ -15,4 +15,4 @@ I am able to deliver complex concepts and popularize them for different audience
   - [Vwifi](https://securitylab-repository.github.io/Vwifi-Page/) 
 - Courses
   - [AVL (Analayse de vulnérabilités logiciels)](https://www.securitylab.fr/avl.html)
-  - [White Hacking  & Cloud Security](https://www.securitylab.fr/whcs.html)  
+  - [White Hacking  & Cloud Security](https://www.securitylab.fr/cours_whcs/course_guide.html)  
