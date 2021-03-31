@@ -16,3 +16,4 @@ I am able to deliver complex concepts and popularize them for different audience
 - Courses
   - [AVL (Analayse de vulnérabilités logiciels)](https://www.securitylab.fr/avl.html)
   - [White Hacking  & Cloud Security](https://www.securitylab.fr/cours_whcs/course_guide.html)  
+  - [AI & SECURITY](https://securitylab-repository.github.io/IA-SECURITY/)
